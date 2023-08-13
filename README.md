@@ -2,19 +2,19 @@
 Basic Linux Commands
 Find the processes running on a Linux machine:
 
-##ps aux / top
+ps aux / top
 
 Find the users currently logged in:
 
-##who
+who
 
 Find the uptime of the machine:
 
-##uptime
+uptime
 
 Find the RAM usage:
 
-##free -h
+free -h
 
 Find the disk usage:
 
