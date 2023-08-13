@@ -66,11 +66,11 @@ lsof -p 3
 
 List processes listening on a specific port (replace 22 with the port number):
 
-lsof -i :22
+lsof -i :8000
 
 Find the status of a service (replace httpd with the service name)
 
-systemctl status httpd
+systemctl status google.co.au
 
 Find zombie processes on a machine:
 
